@@ -5,7 +5,7 @@ td{ width: 50px;
 
 
 body {
-    background-repeat:repeat;
+	background-image: url("bg.jpg");
 }
 	
 #title{
