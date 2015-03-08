@@ -6,6 +6,7 @@ td{ width: 50px;
 
 body {
 	background-image: url("pizza.gif");
+	background-size: 200px 200px;
 }
 	
 #title{
