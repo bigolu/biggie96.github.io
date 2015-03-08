@@ -5,13 +5,13 @@ td{ width: 50px;
 
 
 body {
-	background-image: url("bg.jpg");
+	background-image: url("pizza.gif");
 }
 	
 #title{
 	font-size: 110px;
 	text-align: center;
-	color: blue;
+	color: green;
 	margin-bottom: 0px;
 }
 
