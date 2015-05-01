@@ -2,7 +2,7 @@ function showVideos(){
 	var ignJSON = "";
 
 	var xhr = new XMLHttpRequest();
-	xhr.open("GET", "http://ign-apis.herokuapp.com/videos?startIndex=0&amp;count=20", true);
+	xhr.open("GET", "http://runextbus.heroku.com/stop/Hill%20Center", true);
 	xhr.onreadystatechange = function() {
   		if (xhr.readyState == 4) {
     		ignJSON = xhr.responseText;
