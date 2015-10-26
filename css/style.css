@@ -1,4 +1,37 @@
-/************* Home Page **********************/
+/************* Everything ********************/
+html body{
+background: -webkit-linear-gradient(90deg, #485563 0%, #29323c 0%); /* Chrome 10+, Saf5.1+ */
+font-family: 'Open Sans', sans-serif !important;
+}
+
+#first_name, #real_name, #last_name, .nav-tabs > #index.active > a, .nav-tabs > #index > a{
+    color: #2ECC71 !important;
+}
+
+#desc{
+    color: white;
+}
+
+.nav-tabs > li.active > a{
+    background-color: #3D4855 !important;
+}
+
+.proj p{
+    color: white !important;
+}
+
+.proj a, .nav-tabs > #projects.active > a, .nav-tabs > #projects > a{
+    color: #8E44AD !important;
+}
+
+.c, .nav-tabs > #contact.active > a, .nav-tabs > #contact > a{
+    color: #22A7F0 !important;
+}
+
+.nav-tabs > #resume.active > a, .nav-tabs > #resume > a{
+    color: #D91E18 !important;
+}
+
 #section1 {
     height: 90% !important; 
     width:100% !important;
@@ -8,6 +41,7 @@
     position: relative !important;
     top: 200px;
 }
+
 
 #section1 h1 {display:table-cell; vertical-align:middle !important; font-size: 50px;}
 
