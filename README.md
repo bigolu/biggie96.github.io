@@ -1,3 +1,3 @@
 # biggie.co
 
-### This *was* the code for my personal site, but has moved to [bigolu.github.io](https://github.com/bigolu/bigolu.github.io)
+My old personal site. You can find the latest one at [bigolu.github.io](https://github.com/bigolu/bigolu.github.io)
